@@ -1,12 +1,13 @@
 # Getting Started
-Visit the landing [website](https://yachtoncloud.it/).
+
+<!-- Visit the landing [website](https://yachtoncloud.it/). -->
 
 ## Download from the store
 
 <div style="margin-top: 40px;"></div>
 
-[![Google Play](./assets/badge-google-play-it.svg)](https://play.google.com/store/apps/details?id=it.pixora.yoc)
-[![App Store](./assets/badge-app-store_black-it.svg)](https://apps.apple.com/it/app/yacht-on-cloud/id6447971467)
+[![Google Play](./assets/badge-google-play-it.svg)](https://play.google.com/store/apps/details?id=it.pixora.sacs)
+[![App Store](./assets/badge-app-store_black-it.svg)](https://apps.apple.com/it/app/sacs/id6479796101)
 
 ## Registration
 

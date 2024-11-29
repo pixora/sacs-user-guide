@@ -4,21 +4,19 @@
 
 - [Login Screen](Mobile_App.md#login-screen)
 
-- [Vessel Selection Page](Mobile_App.md#vessel-selection-page)
+- [Discovery Screen](Mobile_App.md#discovery-screen)
 
-- [Vessel Dashboard](Mobile_App.md#vessel-dashboard)
+- [Logs Screen](Mobile_App.md#logs-screen)
 
-- [Connectivity Screen](Mobile_App.md#connectivity-screen)
+- [Requests Screen](Mobile_App.md#requests-screen)
 
-- [Dashboard Device](Mobile_App.md#dashboard-devices)
+- [Details Screen](Mobile_App.md#details-screen)
 
-- [Alarms Dashboard](Mobile_App.md#alarms-dashboard)
+- [New Request Screen](Mobile_App.md#new-request-screen)
 
-- [Tracking Page](Mobile_App.md#tracking-page)
+- [Profile Screen](Mobile_App.md#profile-screen)
 
-- [Settings Page](Mobile_App.md#settings-screen)
-
-- [TLC Screen](Mobile_App.md#tlc-screen)
+- [Devices Screen](Mobile_App.md#devices-screen)
 
 ## Web App Guide
 

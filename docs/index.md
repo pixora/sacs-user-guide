@@ -20,14 +20,14 @@
 
 ## Web App Guide
 
-- [Login Screen](Web_App.md#login-screen)
+- [Login Page](Web_App.md#login-page)
 
-- [Vessel Selection Page](Web_App.md#vessel-selection-page)
+- [Home Page](Web_App.md#home-page)
 
-- [Vessel Dashboard](Web_App.md#vessel-dashboard)
+- [Scheduled Access Page](Web_App.md#scheduled-access-page)
 
-- [Dashboard Device](Web_App.md#dashboard-devices)
+- [Audit Log Page](Web_App.md#audit-log-page)
 
-- [Alarms Dashboard](Web_App.md#dashboard-alarms)
+- [Documents Page](Web_App.md#documents-page)
 
-- [Tracking Page](Web_App.md#tracking-page)
+- [Profile Page](Web_App.md#profile-page)

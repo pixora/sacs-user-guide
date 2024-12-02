@@ -3,6 +3,7 @@
 # Welcome to Sacs user guide.
 
 ## Login Screen
+
 Per effettuare il log in è obbligatorio l’inserimento nei form dei seguenti campi: 
 
 * `Tenant`: Nome identificativo dello specifico tenant abilitato.
@@ -21,7 +22,7 @@ In caso di credenziali corrette, l'utente passerà alla prossima schermata.
 
 ## Discovery Screen
 
-In questa schermata, l'utente può cercare le `location` accessibili tramite chiave Bluetooth utilizzando la barra di ricerca.
+In questa schermata, l'utente può cercare le `location` accessibili tramite chiave meccatronica (Bluetooth) utilizzando la barra di ricerca.
 
 <div style="margin-top: 30px;">
     <img src="../assets/screens/discovery_screen.png" alt="Discovery Screen" width="250">
@@ -40,6 +41,8 @@ In questa schermata, l'utente può visualizzare l'elenco dei log relativi alle a
 </div>
 
 La ricerca dei log avviene selezionando un intervallo di tempo, tramite due selettori di date, e cliccando sul pulsante `Search Logs`, consentendo di individuare rapidamente le informazioni desiderate.
+
+Se la ricerca non produce alcun risultato, l'utente verrà informato con un messaggio.
 
 ## Requests Screen
 
@@ -75,8 +78,18 @@ Se si desidera annullare l'operazione e tornare indietro, è sufficiente premere
 
 ## Profile Screen
 
-In questa schermata, vengono visualizzate le informazioni relative al profilo utente, inclusa la chiave Bluetooth associata.
+In questa schermata, vengono visualizzate le informazioni relative al profilo utente, inclusa la chiave meccatronica (Bluetooth) associata.
 
 <div style="margin-top: 30px;">
     <img src="../assets/screens/profile_screen.png" alt="Profile Screen" width="250">
 </div>
+
+## Devices Screen
+
+In questa schermata, l'utente può cercare, accoppiare e gestire nuovi dispositivi.
+
+<div style="margin-top: 30px;">
+    <img src="../assets/screens/devices_screen.png" alt="Devices Screen" width="250">
+</div>
+
+Per avviare la ricerca, è necessario premere il pulsante `Scan now!`, che rileverà i dispositivi disponibili nelle vicinanze. Una volta individuato un dispositivo, questo verrà visualizzato nell'elenco. A questo punto, è possibile premere il pulsante `Connect` per stabilire la connessione. Dopo aver completato il collegamento, l'utente può premere il pulsante `Update` per aggiornare la chiave associata.

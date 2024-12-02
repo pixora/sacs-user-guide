@@ -11,6 +11,4 @@
 
 ## Registration
 
-User registration for access to YoC is carried out following the purchase and installation of the YoC kit. Buy now by contacting:
-[info@yachtoncloud.it](mailto:info@yachtoncloud.it)
-If you have problems logging in, contact the support channel on [developers@pixora.it](mailto:developers@pixora.it).
+To access Sacs, users must request registration by sending an email to [developers@pixora.it](mailto:developers@pixora.it). If you encounter any issues during login, please contact the support team via [developers@pixora.it](mailto:developers@pixora.it).

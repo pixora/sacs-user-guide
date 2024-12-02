@@ -1,13 +1,13 @@
 site_name: User Guide
-# site_url: https://pixora.github.io/yoc-user-guide/
+# site_url: https://pixora.github.io/sacs-user-guide/
 theme:
   name: material
   logo: assets/logo_sacs.png
-  favicon: assets/favicon.png
+  favicon: assets/icon_sacs_logo.png
   language: it
   palette:
     primary: white
-    accent: indigo
+    accent: blue
   features:
     - navigation.expand
 plugins:

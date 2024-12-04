@@ -56,13 +56,23 @@ Selezionando una richiesta, si verrà reindirizzati alla schermata dei dettagli 
 
 ## Details Screen
 
-In questa schermata, l'utente potrà visualizzare i dettagli relativi alla richiesta di accesso selezionata.
+In questa schermata, l'utente può visualizzare i dettagli della richiesta di accesso selezionata, insieme ai documenti relativi al `Site`.
 
 <div style="margin-top: 30px;">
     <img src="../assets/screens/details_screen.png" alt="Details Screen" width="250">
 </div>
 
-Cliccando sul pulsante `Enter with: Bluetooth` sarà possibile aggiornare la chiave, a condizione che sia correttamente collegata. In caso contrario, verrà visualizzato un messaggio d'errore.
+Cliccando sul pulsante `Enter with: Bluetooth` sarà possibile aggiornare la chiave, a condizione che sia correttamente collegata. In caso contrario, verrà visualizzato un messaggio d'errore. Invece, cliccando sul pulsante `Site Documents`, sarà possibile accedere ai documenti relativi al `Site`.
+
+## Documents Screen
+
+In questa schermata, l'utente può accedere ai documenti associati al `Site`.
+
+<div style="margin-top: 30px;">
+    <img src="../assets/screens/documents_screen.png" alt="Documents Screen" width="250">
+</div>
+
+Cliccando su un documento, è possibile scaricarlo e visualizzarne il contenuto.
 
 ## New Request Screen
 

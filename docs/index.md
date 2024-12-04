@@ -12,6 +12,8 @@
 
 - [Details Screen](Mobile_App.md#details-screen)
 
+- [Documents Screen](Mobile_App.md#documents-screen)
+
 - [New Request Screen](Mobile_App.md#new-request-screen)
 
 - [Profile Screen](Mobile_App.md#profile-screen)

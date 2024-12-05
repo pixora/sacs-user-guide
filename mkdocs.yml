@@ -1,5 +1,5 @@
 site_name: User Guide
-# site_url: https://pixora.github.io/sacs-user-guide/
+site_url: https://pixora.github.io/sacs-user-guide/
 theme:
   name: material
   logo: assets/logo_sacs.png

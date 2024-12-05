@@ -26,9 +26,13 @@
 
 - [Home Page](Web_App.md#home-page)
 
+- [Users Page](Web_App.md#users-page)
+
 - [Scheduled Access Page](Web_App.md#scheduled-access-page)
 
 - [Audit Log Page](Web_App.md#audit-log-page)
+
+- [Asset Page](Web_App.md#asset-page)
 
 - [Documents Page](Web_App.md#documents-page)
 

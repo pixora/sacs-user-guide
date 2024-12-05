@@ -1,6 +1,6 @@
 # Getting Started
 
-<!-- Visit the landing [website](https://yachtoncloud.it/). -->
+Visit the landing [website](https://sacs-ui-route-pixora-platform-develop.apps.okd.pixora.site/).
 
 ## Download from the store
 
